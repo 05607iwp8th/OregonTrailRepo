@@ -1,4 +1,4 @@
-# OT-SD
+# Math-App README-Guide
 READ ME!
 -This is not an app rather than a output (there are many other apps but if you want to support me, then so be it. Plus it does not require an account or login so that is a bonus!
 - Rights to change the code goes to the user (you!).
