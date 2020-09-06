@@ -1,2 +1,3 @@
-# OT-SD
-Hello Fellow Coders! Feel free to upload ANY code or text files!
+# OT Repository(A place where code is shared)
+
+This is a public repository so anyone can commit new files!
