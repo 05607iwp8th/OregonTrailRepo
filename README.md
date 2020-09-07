@@ -5,7 +5,7 @@ READ ME!
 - Rights to the code go to Isaiah Pagnozzi, 8th Grade 😊
 - In case of confrontations with teachers tell them ^^^
 
-- There are 2 versions. A new buggy one that is not going to be updated for a while (for another app) but, it has more "modes". Or a older version with one gamemode that doesn't bug what so ever!
+- There are 2 versions. A version with practice and a semi-working time trial mode :| . Or a older version with one gamemode that doesn't bug what so ever!
 
 Installation guides:
 1.	Install PyCharm 2020-1.0 from JetBrains™ Go to “https://www.jetbrains.com/pycharm/download/#section=windows”  and click Community Edition Download, the firewall should kick in and try to block it, but don’t click off. Just wait (sometimes entering your email in the username slot can help…) alternatively you could get Microsoft’s visual code at “https://code.visualstudio.com/” and do the above.
